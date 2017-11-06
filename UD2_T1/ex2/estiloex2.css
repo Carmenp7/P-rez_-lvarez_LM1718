@@ -1,0 +1,18 @@
+th {
+    border: 2px solid white;
+    border-collapse: collapse;
+    background-color: #663300;
+    color: white;
+}
+
+td {
+  border-style: dotted;
+  border-color: #663300;
+  border-width: thin;
+}
+
+a:link {
+    color: #00ace6;
+    background-color: transparent;
+    text-decoration: none;
+}
